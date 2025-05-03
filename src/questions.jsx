@@ -4,6 +4,8 @@ export const questions=["What is a Nuzlocke","What are the standard Nuzlocke Rul
 //The answers are stored as JSX content
 export const answers=[
 <>
+<p>A Nuzlocke is a Pokemon challenge that makes the games harder while helping you build connections to your Pokemon.</p>
+<p>Your goal for a Nuzlocke is to complete a Pokemon game while following certain rules.</p>
 </>,
 <>
 <p>The standard Nuzlocke rules are as follows:</p>
