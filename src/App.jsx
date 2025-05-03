@@ -32,6 +32,7 @@ function App()
   return (
     <>
       <h1>Exercise Nuzlocke</h1>
+      <h2>Exercise and Pokemon</h2>
       {accordion_elements}
     </>
   )
